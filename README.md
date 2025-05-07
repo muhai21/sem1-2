@@ -16,15 +16,25 @@ This repository contains projects, assignments, and resources for my Semester 1-
 ## 📁 Repository Structure
 
 sem1-2/
+
 ├── cse156_data_structures/
+
 │ ├── c/
+
 │ └── cpp/
+
 ├── cse160_oop/
+
 │ ├── c/
+
 │ └── cpp/
+
 ├── cse162_tech_writing/
+
 │ └── latex/
+
 └── resources/
+
 
 
 ## 📂 Contents
